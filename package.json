@@ -1,0 +1,14 @@
+{
+  "name": "japanese17509",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "riches666 Pantip เว็บไซต์ที่เชื่อถือได้ [Play168] ⭐ riches666 เว็บสล็อตแตกง่าย บริการจากค่ายตรง ทำเงินได้จริง รับรองอัตราการชนะสูงทุกเกม RTP เยอะสุด",
+  "keywords": [
+    "riches666 Pantip เว็บไซต์ที่เชื่อถือได้ [Play168] ⭐ riches666 เว็บสล็อตแตกง่าย บริการจากค่ายตรง ทำเงินได้จริง รับรองอัตราการชนะสูงทุกเกม RTP เยอะสุด"
+  ],
+  "repository": "https://github.com/yorkinyellow/japanese17509",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
